@@ -32,6 +32,10 @@ Is the process of creating a visual representation of either a whole information
 - Object-oriented data models
 - Dimensional data models
 
+One table's Primary Key is another table's Foreign Key.
+
+In Entity Relationship Diagram (ERD) => A solid line means that the foreign key cannot have missing values. A dash line means that the foreign key can accept missing or null values. 
+
 
 
 
