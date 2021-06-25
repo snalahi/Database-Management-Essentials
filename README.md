@@ -25,6 +25,14 @@ Are non tabular, and store data differently than relational tables. NoSQL databa
 #### Data Modeling
 Is the process of creating a visual representation of either a whole information system or parts of it to communicate connections between data points and structures. The goal is to illustrate the types of data used and stored within the system, the relationships among these data types, the ways the data can be grouped and organized and its formats and attributes.
 
+#### Types of data modeling
+- Hierarchical data models 
+- Relational data models
+- Entity-relationship (ER) data models
+- Object-oriented data models
+- Dimensional data models
+
+
 
 
 
