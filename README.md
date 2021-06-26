@@ -40,6 +40,8 @@ VARCHAR() => implies to varying length of characters.
 
 CHAR() => implies to fixed length of characters.
 
+An integrity constraint must be placed external when it is involved with or it considers multiple columns.
+
 
 
 
