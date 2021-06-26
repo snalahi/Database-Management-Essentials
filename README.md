@@ -36,6 +36,11 @@ One table's Primary Key is another table's Foreign Key.
 
 In Entity Relationship Diagram (ERD) => A solid line means that the foreign key cannot have missing values. A dash line means that the foreign key can accept missing or null values. 
 
+VARCHAR() => implies to varying length of characters.
+
+CHAR() => implies to fixed length of characters.
+
+
 
 
 
