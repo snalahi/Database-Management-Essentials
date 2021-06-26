@@ -42,6 +42,10 @@ CHAR() => implies to fixed length of characters.
 
 An integrity constraint must be placed external when it is involved with or it considers multiple columns.
 
+#### SQL was designed as a complete data language covering database definition, manipulation, and control. There are three main statement types in SQL: Definition, Manipulation and Control.
+
+
+
 
 
 
