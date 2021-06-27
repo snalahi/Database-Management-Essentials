@@ -50,7 +50,7 @@ HAVING is the condition clause applied to GROUP BY clause. ORDER BY is obviously
 
 #### Row conditions are specified in the WHERE clause. Group conditions are specified in the having clause. In opposite cases, the system (SQL Compiler) prints out an error.
 
-##### GROUP BY is a clause that is used to summarize by columns. Typically, grouping is used to apply some sort of aggregate function for each group.
+#### GROUP BY is a clause that is used to summarize by columns. Typically, grouping is used to apply some sort of aggregate function for each group.
 
 Cardinality: The cardinality of a join between two tables is the numerical relationship between rows of one table and rows in the other. Common cardinalities include one-to-one, one-to-many, and many-to-many.
 
