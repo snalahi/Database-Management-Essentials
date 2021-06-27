@@ -44,6 +44,18 @@ An integrity constraint must be placed external when it is involved with or it c
 
 #### SQL was designed as a complete data language covering database definition, manipulation, and control. There are three main statement types in SQL: Definition, Manipulation and Control.
 
+PK => Primary Key, FK => Foreign Key, PK-FK is the common join operator.
+
+HAVING is the condition clause applied to GROUP BY clause. ORDER BY is obviously the very last clause applied to SQL query.
+
+#### Row conditions are specified in the WHERE clause. Group conditions are specified in the having clause. In opposite cases, the system (SQL Compiler) prints out an error.
+
+##### GROUP BY is a clause that is used to summarize by columns. Typically, grouping is used to apply some sort of aggregate function for each group.
+
+Cardinality: The cardinality of a join between two tables is the numerical relationship between rows of one table and rows in the other. Common cardinalities include one-to-one, one-to-many, and many-to-many.
+
+
+
 
 
 
